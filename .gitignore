@@ -1,1 +1,5 @@
-.local.gitconfig
+#local git config(with secrets)
+*.local.gitconfig
+
+#just a vscode workspace file
+*html-template.code-workspace
